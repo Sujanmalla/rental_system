@@ -1,0 +1,1 @@
+<img src="<?php echo e(asset('my-logo.png')); ?>" alt="My Company Logo" <?php echo e($attributes); ?>><?php /**PATH C:\xampp\htdocs\laravel-rental-system-main\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
